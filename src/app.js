@@ -264,6 +264,9 @@ app.use('/lugares', require('./router/lugarTuristico.router'));
 app.use('/mensajes', require('./router/mensaje.router'));
 app.use('/guia-voz', require('./router/guiaVoz.router'));
 app.use('/reporte', require('./router/reporte.router'));
+app.use('/usuarios', require('./router/user.router'));
+app.use('/roles', require('./router/rol.router'));
+app.use('/detalle-rol', require('./router/detalleRol.router'));
 
 // Configurar variables globales
 app.use((req, res, next) => {

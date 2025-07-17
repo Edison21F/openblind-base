@@ -14,4 +14,4 @@ const detalleRol = (sequelize, type)=>{
 }
 
 
-module.exports = detalleRol
+module.exports = detalleRol 
