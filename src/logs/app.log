@@ -1718,3 +1718,15 @@
 2025-07-16 22:39:57 [INFO]: 🚀 MongoDB conectado correctamente
 2025-07-16 22:39:57 [INFO]: Conexión establecida con la base de datos
 2025-07-16 22:40:00 [INFO]: Base de Datos sincronizadas
+2025-07-16 22:40:15 [INFO]: El servidor está escuchando en el puerto 4500
+2025-07-16 22:40:15 [INFO]: Base de datos conectada
+2025-07-16 22:40:15 [INFO]: ✅ Mongoose conectado a MongoDB en: localhost
+2025-07-16 22:40:15 [INFO]: 🚀 MongoDB conectado correctamente
+2025-07-16 22:40:15 [INFO]: Conexión establecida con la base de datos
+2025-07-16 22:40:17 [ERROR]: Error al asignar múltiples roles: Error: Duplicate entry '0' for key 'PRIMARY'
+2025-07-16 22:40:17 [INFO]: [0mPOST /detalle-rol/asignar-multiples-roles [31m500[0m 81.280 ms - 84[0m
+2025-07-16 22:40:18 [INFO]: Base de Datos sincronizadas
+2025-07-16 22:40:33 [ERROR]: Error al asignar múltiples roles: Error: Duplicate entry '0' for key 'PRIMARY'
+2025-07-16 22:40:33 [INFO]: [0mPOST /detalle-rol/asignar-multiples-roles [31m500[0m 28.726 ms - 84[0m
+2025-07-16 22:41:12 [ERROR]: Error al asignar múltiples roles: Error: Duplicate entry '0' for key 'PRIMARY'
+2025-07-16 22:41:12 [INFO]: [0mPOST /detalle-rol/asignar-multiples-roles [31m500[0m 5.760 ms - 84[0m
